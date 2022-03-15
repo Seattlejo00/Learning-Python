@@ -1,5 +1,3 @@
-
-
 #Getting user inputs for range floor and ceiling
 minima = int(input("Enter range minima: "))
 premaxima = int(input("Enter range maxima: "))
